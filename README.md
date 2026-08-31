@@ -1,5 +1,7 @@
 # Focus
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z7I0211Q00)
+
 [![DOWNLOAD NOW](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD_NOW-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/boxofrules/focus/releases/latest)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/boxofrules)
 
